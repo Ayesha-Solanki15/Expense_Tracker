@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ayesha-Solanki15/Expense_Tracker.git/static/css/main.5a70c204.css",
+    "main.js": "/Ayesha-Solanki15/Expense_Tracker.git/static/js/main.286d1091.js",
+    "index.html": "/Ayesha-Solanki15/Expense_Tracker.git/index.html",
+    "main.5a70c204.css.map": "/Ayesha-Solanki15/Expense_Tracker.git/static/css/main.5a70c204.css.map",
+    "main.286d1091.js.map": "/Ayesha-Solanki15/Expense_Tracker.git/static/js/main.286d1091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a70c204.css",
+    "static/js/main.286d1091.js"
+  ]
+}
